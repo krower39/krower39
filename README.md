@@ -6,3 +6,4 @@ In my free time I like to do some of the following:
 <li>Play videogames</li>
 <li>Watch my favorite sports teams</li>
 </ul>
+My linkdin is: https://www.linkedin.com/in/karl-robie-1a0315240/
