@@ -27,7 +27,9 @@ Here are some ideas to get you started:
       </style>
 
       <html>
-        <h1>Hello there, my name is Karl Robie</h1>
+        <head>
+          <title>Hello there, my name is Karl Robie</title>
+        </head>
       </html>         
 
     </div>
