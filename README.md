@@ -19,7 +19,11 @@ Here are some ideas to get you started:
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        /* your CSS */
+        body {
+          margin: 0;
+          padding: 0;
+          background: green;
+        }
       </style>
 
       <!-- your HTML -->
