@@ -26,9 +26,9 @@ Here are some ideas to get you started:
         }
       </style>
 
-      <HTML>
+      <html>
         <h1>Hello there, my name is Karl Robie</h1>
-      </HTML>         
+      </html>         
 
     </div>
   </foreignObject>
