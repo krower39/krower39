@@ -7,6 +7,7 @@ In my free time I like to do some of the following:
 <li>Play videogames</li>
 <li>Watch my favorite sports teams</li>
 </ul>
+My Linkdin is: [https://www.linkedin.com/in/karl-robie-1a031524]
 
 ![alt text](https://pixy.org/src/149/thumbs350/1497856.jpg "Test 1") 
 
