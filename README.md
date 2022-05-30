@@ -8,4 +8,4 @@ In my free time I like to do some of the following:
 <li>Watch my favorite sports teams</li>
 </ul>
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](OSU Block O Github.png "Test 1")
